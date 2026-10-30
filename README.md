@@ -1,6 +1,8 @@
 Nexora Institute of Technology
 
+
 Project Description
+
 Nexora Institute of Technology is a Code Academy website developed using HTML5 and CSS3. It provides information about technology courses, student benefits, and the academy.
 
 1. Which HTML elements did you use to structure the website?
